@@ -1,7 +1,7 @@
 package by.it.vasilevich.jd02_10;
 
 
-import by.it.akhmelev.jd02_09.generate.Students;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

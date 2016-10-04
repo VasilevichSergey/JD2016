@@ -18,7 +18,7 @@ public class TaskA {
                 min=i;
             }
         }
-        return "Min="+min.toString()+" Lengt="+min.toString().length();
+        return "Min="+min.toString()+" Length="+min.toString().length();
     }
 
     static double mean (int array[]) {
